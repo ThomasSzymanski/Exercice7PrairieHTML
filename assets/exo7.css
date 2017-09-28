@@ -1,0 +1,51 @@
+#Formulaire1{
+
+  background-color: #2574a9;
+  height: 160px;
+  width: 100%;
+  float: left;
+  margin-bottom: 18px;
+
+}
+
+#Formulaire1 h2 {
+   margin: -10px 10px 0px ;
+}
+#Formulaire1 h2 span {
+   background-color: #2574a9;
+   padding: 5px;
+}
+
+#Formulaire2{
+
+  background-color: #a82525;
+  height: 160px;
+  width: 100%;
+  float: left;
+  margin-bottom: 18px;
+}
+
+#Formulaire2 h2 {
+   margin: -10px 10px 0px ;
+}
+#Formulaire2 h2 span {
+   background-color: #a82525;
+   padding: 5px;
+}
+
+#Formulaire3{
+
+  background-color: #961b67;
+  height: 275px;
+  width: 100%;
+  float: left;
+
+}
+
+#Formulaire3 h2 {
+   margin: -10px 10px 0px ;
+}
+#Formulaire3 h2 span {
+   background-color: #961b67;
+   padding: 5px;
+}
